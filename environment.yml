@@ -1,0 +1,9 @@
+name: impact-mongodb
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pymongo
+  - python-dateutil
+  - watchdog
